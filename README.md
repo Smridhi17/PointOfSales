@@ -1,0 +1,2 @@
+# PointOfSales
+Core java project
